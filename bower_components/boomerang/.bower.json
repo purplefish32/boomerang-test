@@ -1,0 +1,39 @@
+{
+  "name": "boomerang",
+  "main": "boomerang.js",
+  "homepage": "http://www.lognormal.com/boomerang/doc/",
+  "authors": [
+    "Philip Tellis"
+  ],
+  "description": "End user oriented web performance testing and beaconing",
+  "keywords": [
+    "boomerang",
+    "performance",
+    "NavigationTiming",
+    "ResourceTiming",
+    "UserTiming",
+    "PerformanceTimeline"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "chai": "~1.9.2",
+    "mocha": "~1.21.5"
+  },
+  "_release": "25b790d424",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "25b790d4243dc6d052323a33ac16b52310caf8c0"
+  },
+  "_source": "git://github.com/bluesmoon/boomerang.git",
+  "_target": "*",
+  "_originalSource": "boomerang",
+  "_direct": true
+}
